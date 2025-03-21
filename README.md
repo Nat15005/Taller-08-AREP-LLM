@@ -159,12 +159,21 @@ Taller-08-AREP-LLM/
 └── main.py                       
 ```
 
+## How to Run
+Running in Google Colab
+
+- Open Google Colab and create a new notebook.
+
+- Copy and paste the code snippets from this README into the notebook cells.
+
+- Run each cell sequentially to install dependencies, set up the environment, and execute the code.
+
 ## Contributing
 
 [https://python.langchain.com/docs/tutorials/llm_chain/](https://python.langchain.com/docs/tutorials/llm_chain/)
 
 
+## Author
 
-
-
+Developed by [Natalia Rojas](https://github.com/Nat15005)
 
